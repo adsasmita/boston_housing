@@ -1,6 +1,6 @@
 # boston_housing
 
-A machine learning implementation (using [Scikit-learn](http://scikit-learn.org/stable/) Python library) to predict housing market prices in [Boston, Massachusetts](https://en.wikipedia.org/wiki/Boston).
+A machine learning project using [Scikit-learn](http://scikit-learn.org/stable/) Python library to predict housing market prices in [Boston, Massachusetts](https://en.wikipedia.org/wiki/Boston).
 
 ## Files
 
