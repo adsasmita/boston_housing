@@ -21,20 +21,22 @@ This model would prove to be invaluable for someone like a real estate agent who
 The dataset used in this project is included as `housing.csv`. The dataset originates from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Housing). The Boston housing data was collected in 1978 and each of the 506 entries represent aggregated data about 14 features for homes from various suburbs in Boston, Massachusetts.
 
 **Features**
-1. CRIM: per capita crime rate by town 
-2. ZN: proportion of residential land zoned for lots over 25,000 sq.ft. 
-3. INDUS: proportion of non-retail business acres per town 
-4. CHAS: Charles River dummy variable (= 1 if tract bounds river; 0 otherwise) 
-5. NOX: nitric oxides concentration (parts per 10 million) 
-6. RM: average number of rooms per dwelling 
-7. AGE: proportion of owner-occupied units built prior to 1940 
-8. DIS: weighted distances to five Boston employment centres 
-9. RAD: index of accessibility to radial highways 
-10. TAX: full-value property-tax rate per 10000 dollars
-11. PTRATIO: pupil-teacher ratio by town 
-12. B: 1000(Bk - 0.63)^2 where Bk is the proportion of blacks by town 
-13. LSTAT: % lower status of the population 
-14. MEDV: Median value of owner-occupied homes in 1000 dollars
+- `CRIM`: per capita crime rate by town 
+- `ZN`: proportion of residential land zoned for lots over 25,000 sq.ft. 
+- `INDUS`: proportion of non-retail business acres per town 
+- `CHAS`: Charles River dummy variable (= 1 if tract bounds river; 0 otherwise) 
+- `NOX`: nitric oxides concentration (parts per 10 million) 
+- `RM`: average number of rooms per dwelling 
+- `AGE`: proportion of owner-occupied units built prior to 1940 
+- `DIS`: weighted distances to five Boston employment centres 
+- `RAD`: index of accessibility to radial highways 
+- `TAX`: full-value property-tax rate per 10000 dollars
+- `PTRATIO`: pupil-teacher ratio by town
+- `B`: 1000(Bk - 0.63)^2 where Bk is the proportion of blacks by town 
+- `LSTAT`: % lower status of the population 
+
+**Target Variable**
+- `MEDV`: Median value of owner-occupied homes in 1000 dollars
 
 ## Dependencies
 
